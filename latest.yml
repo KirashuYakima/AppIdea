@@ -1,8 +1,1 @@
 version: 1.0.1
-files:
-  - url: YourAppName-Setup-1.0.1.exe
-    sha512: uhgbl2cDj8Okgcx2sm5Ggk52ld6y8/AN69+RAMdsMwZF215Yjfj6rVt/+UaroB5KkWrECMYevisYCn2FNXIvjQ==
-    size: 78570380
-path: YourAppName-Setup-1.0.1.exe
-sha512: uhgbl2cDj8Okgcx2sm5Ggk52ld6y8/AN69+RAMdsMwZF215Yjfj6rVt/+UaroB5KkWrECMYevisYCn2FNXIvjQ==
-releaseDate: '2024-06-18T17:40:49.045Z'
